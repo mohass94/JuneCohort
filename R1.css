@@ -59,4 +59,5 @@ a{
 
 #recipe-link a {
     color: black;
+    text-decoration: underline;
 }
