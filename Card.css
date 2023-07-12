@@ -1,0 +1,72 @@
+.container{
+    width: 40%;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    background-color: gold ;
+    border-radius: 20px;
+   
+    
+    
+    
+    
+}
+
+.container img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    
+}
+
+.container nav ul {
+    padding: 0%;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container nav ul li {
+    display: block;
+    padding: 10px 15px;
+    
+}
+
+.container nav ul li a  {
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+.container nav ul li a:hover {
+    border-bottom: 1px solid black;
+
+}
+
+
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+body {
+    background-color: purple;
+}
+
+h5 {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h6 {
+    font-variant: small-caps;
+}
+
+p {
+    font-style: italic;
+}
